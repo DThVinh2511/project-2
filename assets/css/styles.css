@@ -590,6 +590,10 @@
     align-items: center;
     border-radius: 50%;
 }
+.footer .social li:hover a{
+    color: #fff;
+    background: var(--color-active);
+}
 .footer .coppyright {
     font-size: 12px;
     font-weight: 400;
