@@ -177,6 +177,7 @@
 /* section-one */
 .section-one {
     padding: 80px 0px;
+    scroll-margin-top: 100px;
 }
 .section-one .inner-img {
     max-width: 280px;
@@ -200,6 +201,7 @@
 /* section-two */
 .section-two {
     padding: 80px 0px;
+    scroll-margin-top: 100px;
 }
 .section-two .box-center {
     align-self: center;
@@ -221,6 +223,9 @@
 /* end section-two */
 
 /* section-three */
+.section-three-scrol {
+    scroll-margin-top: 120px;
+}
 .section-three {
     display: block;
     min-height: 215px;
@@ -310,6 +315,7 @@
 /* section-four */
 .section-four {
     padding: 100px 0px;
+    scroll-margin-top: 100px;
 }
 .section-four .inner-content {
     background: #fff;
@@ -362,6 +368,7 @@
 .section-five {
     padding: 80px 0px;
     background: var(--color-section);
+    scroll-margin-top: 100px;
 }
 .section-five .inner-content {
     background: #fff;
@@ -487,6 +494,7 @@
 /* section-seven */
 .section-seven {
     padding: 100px 0px;
+    scroll-margin-top: 100px;
 }
 .section-seven .inner-content {
     text-align: center;
@@ -526,6 +534,7 @@
 .section-eight {
     padding: 100px 0px;
     background: var(--color-section);
+    scroll-margin-top: 100px;
 }
 .section-eight .box-head p {
     font-size: 15px;

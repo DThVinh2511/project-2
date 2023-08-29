@@ -49,3 +49,9 @@ a {
     background: #ff589e;
     color: #fff;
 }
+body {
+    scroll-margin: 2em;
+}
+html {
+    scroll-behavior: smooth;
+}
